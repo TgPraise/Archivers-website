@@ -4,7 +4,7 @@ import securityConsulting2 from "../assets/services-imgs/security-consulting-2.w
 import programdevelopment1 from "../assets/services-imgs/security-consulting-1.webp";
 import security from "../assets/services-imgs/security-investigation-1.webp";
 import cyber from "../assets/services-imgs/security-investigation-2.webp";
-import escort from "../assets/services-imgs/escort.webp";
+import escort from "../assets/services-imgs/Nigeria-convoy.jpg";
 import emergency from "../assets/services-imgs/emergency-response.webp";
 import audit from "../assets/services-imgs/audit.webp";
 import maritime from "../assets/services-imgs/maritime.webp";
@@ -193,18 +193,19 @@ export const otherServices = [
 
 export const certifications = [
   // Academic
-  { name: "B.Sc", issuer: "University", description: "Bachelor of Science", cat: "academic" },
-  { name: "PGD", issuer: "University", description: "Postgraduate Diploma", cat: "academic" },
+  { name: "B.Sc", issuer: "University", description: "Bachelor of Science Of Socialogy", cat: "academic" },
+  { name: "PGD", issuer: "University", description: "Postgraduate Diploma Of Criminology and Security Studies", cat: "academic" },
   { name: "M.Sc", issuer: "University", description: "First Class Masters in Criminology and Security Studies", cat: "academic" },
 
   // Safety & Health
   { name: "NEBOSH IGC", issuer: "National Examination Board in Occupational Safety and Health", description: "International General Certificate in Occupational Safety and Health", cat: "safety" },
   { name: "ISO 45001", issuer: "International Organization for Standardization", description: "Occupational Health & Safety Management Systems", cat: "safety" },
   { name: "ISO 9001", issuer: "International Organization for Standardization", description: "Quality Management Systems", cat: "safety" },
+  { name: "ISO 14001", issuer: "International Organization for Standardization", description: "Environmental Management Systems", cat: "safety" },
 
   // Security & Intelligence
   { name: "ASIS", issuer: "ASIS International", description: "American Society for Industrial Security — Professional Membership & Certification", cat: "security" },
-  { name: "SPY", issuer: "Security & Intelligence Body", description: "Security Professional Designation", cat: "security" },
+  { name: "SPY", issuer: "Security & Intelligence Body", description: "Police Supernuminatry Unit", cat: "security" },
   { name: "CFIP", issuer: "Certified Forensic Investigation Professional Body", description: "Certified Forensic Investigation Professional", cat: "security" },
   { name: "DFA", issuer: "Forensic Authority", description: "Diploma in Forensic Analysis & Investigation", cat: "security" },
   { name: "CCTV Operator", issuer: "Security Industry Authority", description: "Closed-Circuit Television Operations & Surveillance", cat: "security" },
@@ -212,7 +213,7 @@ export const certifications = [
 
   // Professional Memberships
   { name: "ISPON", issuer: "Institute of Security Professionals of Nigeria", description: "Member — Institute of Security Professionals of Nigeria", cat: "membership" },
-  { name: "NIIS", issuer: "Nigerian Institute of Intelligence Studies", description: "Member — Nigerian Institute of Intelligence Studies", cat: "membership" },
+  { name: "NIIS", issuer: "Nigeria Institute for Industrial Security", description: "Member — Nigeria Institute for Industrial Security", cat: "membership" },
 ];
 
 export const teamMembers = [

@@ -3,6 +3,7 @@ import { Target, Globe, Shield, Leaf, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { FadeIn, StaggerContainer, StaggerItem } from "@/components/animations";
 import SectionHeading from "@/components/SectionHeading";
+import logo from "../assets/favicon.png";
 
 const Hero = () => (
   <section className="relative min-h-[70vh] flex items-center bg-primary overflow-hidden">
@@ -34,7 +35,7 @@ const MissionSection = () => (
             <div className="relative">
               <div className="absolute inset-0 bg-accent/10 blur-3xl rounded-full" />
               <div className="relative bg-surface p-12 md:p-16 rounded-sm shadow-card">
-                <Shield className="w-24 h-24 md:w-32 md:h-32 text-accent mx-auto" strokeWidth={1.5} />
+                <img src={logo} alt="Company Logo" />
                 <Leaf className="w-12 h-12 text-accent/60 absolute bottom-8 right-8" strokeWidth={1.5} />
               </div>
             </div>
@@ -108,7 +109,7 @@ const VisionSection = () => (
             <div className="relative">
               <div className="absolute inset-0 bg-accent/10 blur-3xl rounded-full" />
               <div className="relative bg-background p-12 md:p-16 rounded-sm shadow-card">
-                <Globe className="w-24 h-24 md:w-32 md:h-32 text-accent mx-auto" strokeWidth={1.5} />
+                 <img src={logo} alt="Company Logo" />
                 <Target className="w-12 h-12 text-accent/60 absolute top-8 right-8" strokeWidth={1.5} />
               </div>
             </div>
