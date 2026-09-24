@@ -24,8 +24,8 @@ const Navbar = () => {
       <div className="container-narrow flex items-center justify-between h-16 md:h-20">
         
         <Link to="/" className="font-display text-xl font-semibold tracking-tight text-foreground flex items-center gap-1">
-          <img src={image} alt="Archivers Logo" className="h-8 w-8" />
-          Archivers
+          <img src={image} alt="Archivers Logo" className="h-10 w-8" />
+          Achivers
         </Link>
 
         {/* Desktop */}

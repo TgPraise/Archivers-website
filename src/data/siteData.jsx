@@ -16,7 +16,7 @@ export const services = [
     id: "security-consulting",
     title: "Security and safety consultancy.",
     shortDescription: "Security and safety consultancy helps organizations identify risks and protect people, assets, and operations through effective safety and security measures.",
-    fullDescription: "Security and safety consultancy is a professional service that helps organizations identify risks, prevent hazards, and protect people, assets, and information. It involves assessing potential threats, developing effective safety measures, and implementing security systems to ensure a safe and secure environment in compliance with industry standards such as ISO guidelines.",
+    fullDescription: "Our Security & Safety Consultancy** provides professional solutions designed to help organizations identify risks, prevent hazards, and protect their people, assets, and information. We assess potential threats, develop practical safety measures, and implement effective security systems that create safer, more secure environments while ensuring compliance with recognized industry standards, including ISO guidelines.",
     icon: Shield,
     image1: securityConsulting1,
     features: [
@@ -193,8 +193,8 @@ export const otherServices = [
 
 export const certifications = [
   // Academic
-  { name: "B.Sc", issuer: "University", description: "Bachelor of Science Of Socialogy", cat: "academic" },
-  { name: "PGD", issuer: "University", description: "Postgraduate Diploma Of Criminology and Security Studies", cat: "academic" },
+  { name: "B.Sc", issuer: "University", description: "Bachelor of Science in Sociology", cat: "academic" },
+  { name: "PGD", issuer: "University", description: "Postgraduate Diploma in Criminology and Security Studies", cat: "academic" },
   { name: "M.Sc", issuer: "University", description: "First Class Masters in Criminology and Security Studies", cat: "academic" },
 
   // Safety & Health
@@ -205,14 +205,14 @@ export const certifications = [
 
   // Security & Intelligence
   { name: "ASIS", issuer: "ASIS International", description: "American Society for Industrial Security — Professional Membership & Certification", cat: "security" },
-  { name: "SPY", issuer: "Security & Intelligence Body", description: "Police Supernuminatry Unit", cat: "security" },
+  { name: "SPY", issuer: "Security & Intelligence Body", description: "Police Supernuminary Unit", cat: "security" },
   { name: "CFIP", issuer: "Certified Forensic Investigation Professional Body", description: "Certified Forensic Investigation Professional", cat: "security" },
   { name: "DFA", issuer: "Forensic Authority", description: "Diploma in Forensic Analysis & Investigation", cat: "security" },
   { name: "CCTV Operator", issuer: "Security Industry Authority", description: "Closed-Circuit Television Operations & Surveillance", cat: "security" },
   { name: "Forensic Investigation", issuer: "Forensic Authority", description: "Certified Forensic Investigator Credential", cat: "security" },
 
   // Professional Memberships
-  { name: "ISPON", issuer: "Institute of Security Professionals of Nigeria", description: "Member — Institute of Security Professionals of Nigeria", cat: "membership" },
+  { name: "ISPON", issuer: "Institute of Safety Professionals of Nigeria", description: "Member — Institute of Safety Professionals of Nigeria", cat: "membership" },
   { name: "NIIS", issuer: "Nigeria Institute for Industrial Security", description: "Member — Nigeria Institute for Industrial Security", cat: "membership" },
 ];
 
