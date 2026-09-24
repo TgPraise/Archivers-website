@@ -198,7 +198,7 @@ const ContactPage = () => {
                         Email
                       </p>
                       <p className="text-sm text-muted-foreground">
-                        info@archivers.ng
+                        achieveroutsourcing@gmail.com
                       </p>
                     </div>
                   </div>

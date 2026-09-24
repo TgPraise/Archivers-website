@@ -29,7 +29,7 @@ const Footer = () => (
       <div className="grid md:grid-cols-3 gap-12">
         {/* Brand */}
         <div>
-          <h3 className="font-display text-lg font-semibold mb-4">Archivers Safety-Security Consultancy</h3>
+          <h3 className="font-display text-lg font-semibold mb-4">Achivers Safety-Security Consultancy</h3>
           <p className="text-sm opacity-70 leading-relaxed">
             Delivering world-class safety and security solutions that protect people, assets, and operations.
           </p>
