@@ -16,7 +16,7 @@ export const services = [
     id: "security-consulting",
     title: "Security and safety consultancy.",
     shortDescription: "Security and safety consultancy helps organizations identify risks and protect people, assets, and operations through effective safety and security measures.",
-    fullDescription: "Our Security & Safety Consultancy** provides professional solutions designed to help organizations identify risks, prevent hazards, and protect their people, assets, and information. We assess potential threats, develop practical safety measures, and implement effective security systems that create safer, more secure environments while ensuring compliance with recognized industry standards, including ISO guidelines.",
+    fullDescription: "Our Security & Safety Consultancy provides professional solutions designed to help organizations identify risks, prevent hazards, and protect their people, assets, and information. We assess potential threats, develop practical safety measures, and implement effective security systems that create safer, more secure environments while ensuring compliance with recognized industry standards, including ISO guidelines.",
     icon: Shield,
     image1: securityConsulting1,
     features: [
