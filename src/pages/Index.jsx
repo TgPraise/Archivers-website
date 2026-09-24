@@ -260,7 +260,7 @@ const WhyChooseUs = () => (
   <section className="section-padding bg-background">
     <div className="container-narrow">
       <FadeIn>
-        <SectionHeading label="Why Archivers" title="The Archivers Advantage" />
+        <SectionHeading label="Why Achivers" title="The Achivers Advantage" />
       </FadeIn>
       <StaggerContainer className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {[
@@ -288,7 +288,7 @@ const WhyChooseUs = () => (
 const testimonials = [
   {
     quote:
-      "Archivers transformed our approach to workplace safety. Their audit identified critical gaps we had overlooked for years.",
+      "Achivers transformed our approach to workplace safety. Their audit identified critical gaps we had overlooked for years.",
     name: "Adeola Martins",
     role: "HSE Manager, Delta Oil & Gas",
   },
@@ -306,7 +306,7 @@ const testimonials = [
   },
   {
     quote:
-      "From the initial risk assessment to full implementation, Archivers delivered at every stage. Truly a partner you can trust with your most critical assets.",
+      "From the initial risk assessment to full implementation, Achivers delivered at every stage. Truly a partner you can trust with your most critical assets.",
     name: "Emeka Nwosu",
     role: "CEO, Harbour Maritime Services",
   },

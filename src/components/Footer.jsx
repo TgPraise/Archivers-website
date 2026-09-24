@@ -21,7 +21,7 @@ const Footer = () => (
     {/* Watermark */}
     <div className="absolute inset-0 flex items-end justify-center pointer-events-none select-none">
       <span className="font-display text-[18vw] font-bold leading-none opacity-[0.03] text-primary-foreground translate-y-[20%]">
-        ARCHIVERS
+        Achivers
       </span>
     </div>
 
@@ -80,14 +80,14 @@ const Footer = () => (
             </div>
             <div className="flex items-center gap-2">
               <Mail size={16} className="shrink-0" />
-              <span>info@archivers.ng</span>
+              <span>info@Achivers.ng</span>
             </div>
           </div>
         </div>
       </div>
 
       <div className="mt-12 pt-8 border-t border-primary-foreground/10 text-center text-xs opacity-40">
-        © {new Date().getFullYear()} Archivers Safety-Security Consultancy Limited. All rights reserved.
+        © {new Date().getFullYear()} Achivers Safety-Security Consultancy Limited. All rights reserved.
       </div>
     </div>
   </footer>
